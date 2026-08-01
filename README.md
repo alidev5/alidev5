@@ -2,7 +2,7 @@
 
 # Hi, I am Muhammad Ali
 
-## A Full Stack Developer
+## A Full Stack Next.Js Developer
 
 </div>
 
@@ -29,19 +29,24 @@ I'm a Full Stack developer focused on building scalable, responsive web applicat
 
 ### 🛠️ Tech Stack
 
-```
-Frontend:        React, Next.js, TypeScript, Tailwind CSS, shadcn/ui, HTML5, CSS3, JavaScript, Framer Motion
+| Category | Technologies |
+|----------|---------------|
+| **Frontend Framework** | React, Next.js |
+| **Styling** | Tailwind CSS, shadcn/ui, CSS3 |
+| **Languages** | JavaScript, TypeScript, HTML5 |
+| **Animations** | Framer Motion |
+| **Backend Runtime** | Node.js |
+| **Framework & Routing** | Express.js |
+| **API Design** | REST APIs |
+| **Authentication** | JWT, Session Management, Middleware |
+| **NoSQL Database** | MongoDB (Atlas) |
+| **SQL Database** | PostgreSQL, MySQL |
+| **File Storage** | Cloudinary |
+| **Hosting - Frontend** | Vercel, Netlify |
+| **Hosting - Backend** | Render, Railway |
+| **Version Control** | Git, GitHub, GitLab |
+| **API Testing** | Postman |
 
-Backend:         Node.js, Express.js, REST APIs, Authentication, Middleware
-
-Databases:       MongoDB (NoSQL), PostgreSQL, MySQL (SQL)
-
-Storage:         Cloudinary
-
-Deployment:      Vercel, Netlify, Render, Railway
-
-Tools:           Git, GitHub, GitLab, Postman, VS Code, Bash
-```
 
 ---
 
@@ -90,16 +95,6 @@ Tools:           Git, GitHub, GitLab, Postman, VS Code, Bash
 ✓ Implement authentication & security  
 ✓ Deploy across Vercel, Render, Railway  
 ✓ Optimize performance & scalability  
-
----
-
-### 🚀 Currently Learning
-
-- Advanced Next.js (SSR, API routes)
-- SQL Database Design (PostgreSQL, MySQL)
-- Full-stack architecture patterns
-- TypeScript mastery
-- DevOps & deployment automation
 
 ---
 
