@@ -2,7 +2,7 @@
 
 # Hi, I am Muhammad Ali
 
-## A Full Stack Next.Js Developer
+## A Full Stack Next.js Developer
 
 </div>
 
